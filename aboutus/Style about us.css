@@ -3,15 +3,16 @@ h1{
 }
 p{
 	color:#3399FF;
-	text-align: center;
-	display: block;
-	background-color: #ffffff;
-	height: 90%;
-	bottom: 0;
-	padding-top: 100px;
-	
-	width: 4;
-	
+    height: 100%;
+    width: 4;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 1;
+    background-color: #3399FF;
+    overflow-x: hidden;
+    transition: 0.5s;
+    padding-top: 60px;
 }
 
 .sidenav {
