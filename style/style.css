@@ -5,7 +5,7 @@
     z-index: 1;
     top: 0;
     left: 1;
-    background-color: #B8860B;
+    background-color: #5388ac;
     overflow-x: hidden;
     transition: 0.5s;
     padding-top: 60px;
@@ -34,8 +34,8 @@
     .sidenav a {font-size: 18px;}
 }*/
 h1 {
-	color:#d7b242;
+	color:#3399FF;
 }
 a {
-	color:#d7b242
+	color:#3399FF;
 }
