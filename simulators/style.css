@@ -1,11 +1,11 @@
 .sidenav {
     height: 100%;
-    width: 4;
+    width: 6em;
     position: fixed;
     z-index: 1;
     top: 0;
     left: 1;
-    background-color: #5388ac;
+    background-color: #325267;
     overflow-x: hidden;
     transition: 0.5s;
     padding-top: 60px;
@@ -14,7 +14,7 @@
     padding: 8px 8px 8px 32px;
     text-decoration: none;
     font-size: 25px;
-    color: #006bb3;
+    color: #00ffff;
     display: block;
     transition: 0.3s;
 }
@@ -26,8 +26,11 @@
     margin-left: 50px;
 }
 #main {
-    transition: margin-left .5s;
     padding: 20px;
+    border: 1em solid #e6e6e6;
+    overflow: hidden;
+	margin: 1em;
+	text-align:center;
 }
 /*@media screen and (max-height: 450px) {
     .sidenav {padding-top: 15px;}
@@ -50,4 +53,13 @@ ul{
 
 #bar{
 	color:#006bb3;
+}
+
+.main {
+    padding: 20px;
+    border: 5em solid #e6e6e6;
+    overflow: hidden;
+	margin: 1em;
+	background-color:#5388ac;
+	text-align:center;
 }
