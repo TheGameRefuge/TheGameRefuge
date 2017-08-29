@@ -1,11 +1,11 @@
 .sidenav {
     height: 100%;
-    width: 4;
+    width: 6em;
     position: fixed;
     z-index: 1;
     top: 0;
     left: 1;
-    background-color: #5388ac;
+    background-color: #325267;
     overflow-x: hidden;
     transition: 0.5s;
     padding-top: 60px;
@@ -29,7 +29,7 @@
     padding: 20px;
     border: 5em solid #e6e6e6;
     overflow: hidden;
-	margin: 10em;
+	margin: 1em;
 }
 /*@media screen and (max-height: 450px) {
     .sidenav {padding-top: 15px;}
