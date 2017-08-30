@@ -25,6 +25,7 @@ p{
 #blk{
 	color:#00b3b3;
 }
+
 .fa {
   padding: 20px;
   font-size: 30px;
@@ -55,4 +56,8 @@ p{
 .fa-youtube {
   background: #bb0000;
   color: white;
+}
+
+p{
+	text-align:center;
 }
