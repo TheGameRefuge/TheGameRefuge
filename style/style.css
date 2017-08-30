@@ -5,15 +5,13 @@
 }
 .row {
 
-	border: 3px solid gray;
+	border: 3px;
 }
 .articles {
-	border: 3px solid gray;
+	border: 3px;
 	padding: 1em;
 	text-align: center;
-	background-image= url("style/overlay.png");
 }
-
 h1 {
 	color: #3399FF;
 }
@@ -23,4 +21,9 @@ a {
 }
 header{
 	width:100%;
+}
+.banner{
+	height: auto;
+	width: auto;
+	max-width: 100%;
 }
