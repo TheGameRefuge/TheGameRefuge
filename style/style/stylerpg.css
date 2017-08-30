@@ -10,14 +10,7 @@
 	padding: 1em;
 	text-align: center;
 }
-.main {
-    padding: 20px;
-    border: 5em solid #e6e6e6;
-    overflow: hidden;
-	margin: 1em;
-	background-color:#5388ac;
-	text-align:center;
-}
+
 h1 {
 	color: #3399FF;
 }
@@ -25,8 +18,15 @@ h1 {
 a {
 	color:#00ffff;
 }
+<<<<<<< HEAD
+=======
+#my-comment {
+	width:1024px;
+	height:800px;
+}
 .banner{
 	height: auto;
 	width: auto;
 	max-width: 100%;
 }
+>>>>>>> 0f7f21096405ee5bba46d849b381add125f16914

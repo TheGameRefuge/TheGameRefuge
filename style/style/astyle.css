@@ -3,7 +3,9 @@ h1{
 }
 p{
 	color:#3399FF;
+ 
 }
+
 .container {
 	border: 2em solid white;
 }
@@ -15,17 +17,21 @@ p{
 	border: 3px;
 	padding: 1em;
 	text-align: center;
+<<<<<<< HEAD
 }
-.main {
-    padding: 20px;
-    border: 5em solid #e6e6e6;
-    overflow: hidden;
-	margin: 1em;
-	background-color:#5388ac;
-	text-align:center;
+=======
+	display: block;
+	background-color:#003366;
+	top: 15em;
+	position: fixed;
+	left: 15em;
+	right: 6em;
+	width: 60em;
+	height: 40%;
 }
 .banner{
 	height: auto;
 	width: auto;
 	max-width: 100%;
 }
+>>>>>>> 0f7f21096405ee5bba46d849b381add125f16914

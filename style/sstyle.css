@@ -1,36 +1,15 @@
-#main {
-    padding: 20px;
-    border: 15px solid #e6e6e6;
-    overflow: hidden;
-	margin: 15px;
-	text-align:center;
-	color:#72D0FD;
-	font-family:Georgia;
-	font-size:80px;
+.container {
+	border: 2em solid white;
 }
-/*@media screen and (max-height: 450px) {
-    .sidenav {padding-top: 15px;}
-    .sidenav a {font-size: 18px;}
-}*/
-h1 {
-	color:#72D0FD;
-}
-a {
-	color:#3399FF;
-}
+.row {
 
-p{
-	color:white;
+	border: 3px;
 }
-
-ul{
-	color:white;
+.articles {
+	border: 3px;
+	padding: 1em;
+	text-align: center;
 }
-
-#bar{
-	color:#006bb3;
-}
-
 .main {
     padding: 20px;
     border: 5em solid #e6e6e6;
