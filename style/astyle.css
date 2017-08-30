@@ -45,3 +45,8 @@ p{
 	width: 60em;
 	height: 40%;
 }
+.banner{
+	height: auto;
+	width: auto;
+	max-width: 100%;
+}
