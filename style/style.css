@@ -1,24 +1,26 @@
 
-.main {
-    padding: 20px;
-    border: 5em solid #e6e6e6;
-    overflow: hidden;
-	margin: 1em;
+
+.container {
+	border: 2em solid white;
 }
+.row {
+
+	border: 3px solid gray;
+}
+.articles {
+	border: 3px solid gray;
+	padding: 1em;
+	text-align: center;
+	background-image= url("style/overlay.png");
+}
+
 h1 {
 	color: #3399FF;
 }
-.articles {
-	padding: 20px;
-	border: 5px solid gray;
-    overflow: hidden;
-	margin: 2em;
-	background-color:#5388ac;
-	text-align:center;
-}
+
 a {
 	color:#00ffff;	
 }
 header{
-	overflow:hidden;
+	width:100%;
 }

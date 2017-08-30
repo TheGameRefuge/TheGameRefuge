@@ -3,20 +3,47 @@
 	<head>
 		<title>The Gaming Refuge/Simulators</title>
 		<link rel="stylesheet" href="style/style.css">
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="stylesheet" type="text/css" href="style/bootstrap.min.css">
+		<link rel="stylesheet" href="style/bootstrap-theme.min.css">
 	</head>
 	<body background="simulators/1.png">
 	<img src="simulators/Banner.jpg" alt="vlk">
 	<div id="main">
 		<h1 title="Nadpis">Simulators</h1>
 	</div>	
-	<div id="mySidenav" class="sidenav">
-		<a href="index.html">Home</a>
-		<a href="aboutus.html">About us</a>
-		<a href="simulators.html">Simulators</a>
-		<a href="rpg.html">RPG</a>
-		<a href="shooters.html">Shooters</a>
-		<a href="review">Reviews</a>
-	</div>
+	<nav class="navbar navbar-default">
+    <div class="navbar-header">
+        <button type="button" data-target="#navbarCollapse" data-toggle="collapse" class="navbar-toggle">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+        </button>
+        <a href="#" class="navbar-brand">Brand</a>
+		</div>
+		<div id="navbarCollapse" class="collapse navbar-collapse row col-md-4 col-sm-12 col-xs-12">
+			<ul class="nav navbar-nav">
+				<li class="active"><a href="index.html">Home</a></li>
+				<li><a href="aboutus.html">About us</a></li>
+				<li><a href="simulators.html">Simulators</a></li>
+				<li><a href="rpg.html">RPG</a></li>
+				<li><a href="shooters.html">Shooters</a></li>
+				<li><a href="review">Reviews</a></li>
+		
+			</ul>
+			<form class="navbar-form navbar-left">
+				<div class="input-group">
+					<input type="text" class="form-control" placeholder="Search">
+					<span class="input-group-btn">
+                    <button type="button" class="btn btn-default"><span class="glyphicon glyphicon-search"></span></button>
+					</span>
+				</div>
+			</form>
+		</div>
+	</nav>
 	<div class="main">
 		<p>
 	A simulation video game describes a diverse super-category of video games, generally designed to closely simulate real world activities.<br>
@@ -39,6 +66,9 @@
 	
 		<img src="simulators/2.png" alt="the sims"><br>
 	</div>
+		<script src="js/jquery-1.11.3.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+	
 	</body>
 	<footer>
 		<img src="simulators/7.png" alt="vlk">
