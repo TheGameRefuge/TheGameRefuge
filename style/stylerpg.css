@@ -10,6 +10,7 @@
 	border: 3px;
 	padding: 1em;
 	text-align: center;
+	position 
 }
 .banner{
 	height: auto;
@@ -24,9 +25,4 @@ h1 {
 
 a {
 	color:#00ffff;
-}
-.banner{
-	height: auto;
-	width: auto;
-	max-width: 100%;
 }
