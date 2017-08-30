@@ -27,4 +27,15 @@ a {
 	height: auto;
 	width: auto;
 	max-width: 100%;
+	
+}
+
+#blk{
+	color:#66b3ff;
+	text-align:center;
+}
+
+#jkl{
+	color: ##9cc0e2;
+	text-align:center;
 }

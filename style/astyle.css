@@ -1,8 +1,8 @@
 h1{
-	color:#3399FF;
+	#66b3ff;
 }
 p{
-	color:#3399FF;
+	color:#9cc0e2;
 }
 .container {
 	border: 2em solid white;
@@ -21,4 +21,7 @@ p{
 	height: auto;
 	width: auto;
 	max-width: 100%;
+}
+#blk{
+	color:#00b3b3;
 }
