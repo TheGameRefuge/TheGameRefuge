@@ -46,15 +46,26 @@
   background: #bb0000;
   color: white;
 }
-#jh{
-	color:#99ccff;
-}
 
 #click{
 	color:#66b3ff;
 }
-h1 {
+#jh {
 	text-align:center;
 	border: 2px solid white;
 	color:#9cc0e2;
+}
+.ban{
+	height: auto;
+	width: auto;
+	max-width: 100%;
+}
+
+footer{
+	text-align:center;
+}
+
+p{
+	text-align:center;
+	color:#66b3ff;
 }
