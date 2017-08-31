@@ -10,12 +10,6 @@
 	padding: 1em;
 	text-align: center;
 }
-
-h1 {
-	text-align:center;
-	border: 8px solid #00002E;
-	color:#85D6FF;
-}
 a {
 	color:#00ffff;
 }
@@ -72,9 +66,10 @@ a {
   color: white;
 }
 
-#jh{
+.jh{
 	text-align:center;
-	color: #66b3ff;
+	border: 8px solid #00002E;
+	color:#85D6FF;
 }
 
 #ut{

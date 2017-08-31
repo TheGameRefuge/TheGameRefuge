@@ -10,9 +10,6 @@
 	padding: 1em;
 	text-align: center;
 }
-h1 {
-	color: #3399FF;
-}
 
 a {
 	color:#00ffff;
@@ -56,9 +53,12 @@ a {
 
 #jh{
 	text-align:center;
-}
-h1 {
-	text-align:center;
-	border: 2px solid white;
+	border: 8px solid #00002E;
 	color:#9cc0e2;
+}
+
+#ut{
+	height: auto;
+	width: auto;
+	max-width: 100%;
 }
