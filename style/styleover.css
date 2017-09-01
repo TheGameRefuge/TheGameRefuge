@@ -62,3 +62,12 @@ a {
 	width: auto;
 	max-width: 100%;
 }
+
+p{
+	text-align:center;
+	color:#66b3ff;
+}
+
+footer{
+	text-align:center;
+}
